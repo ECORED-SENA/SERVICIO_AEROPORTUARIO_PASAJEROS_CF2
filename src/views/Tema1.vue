@@ -88,8 +88,7 @@
                 img(src="@/assets/template/tema-1-8.svg", alt="Texto que describa la imagen")
             .col-10.col-lg-11
               p Promover actividades relacionadas entre el medio ambiente y la aviación, con prácticas y políticas de protección del medio ambiente.
-    figure.my-5
-          img(src="@/assets/template/aviation.jpg", alt="Texto que describa la imagen")
+    
     .h4.mt-5 IATA: Asociación Internacional de Transporte Aéreo (en inglés International Air Transport Association)
     .row.mt-5
       .col-12.col-lg-9
