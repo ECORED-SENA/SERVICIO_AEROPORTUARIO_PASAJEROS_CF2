@@ -98,8 +98,9 @@
             td Intransigente, duda de todo y todos, rechaza el argumento más lógico, no reflexiona.
             td Buscar puntos comunes para generar confianza y respetar sus ideas sin afirmar lo que no se puede demostrar.
     .h4.mt-5
+    h4 Usuarios con discapacidad
     .row.mt-4
-      .col-12.col-lg-8
+      .col-12.col-lg-8.mt-3
         p La inclusión social para las personas que presentan dificultad para su movilidad en el transporte y el acceso a la información y comunicaciones, se debe abordar con prudencia y sensibilidad, y no con pesar por su condición, es necesario ofrecer un trato normal y un servicio de calidad.
         p.mt-3 A continuación en la tabla 6, se describen los tipos de discapacidad y la forma correcta de actuar ante una situación similar: 
       .col-6.col-lg-4.offset-3.offset-lg-0
@@ -285,8 +286,7 @@
             .col-lg-8
               .bloque-texto-a__texto.p-4
                 .h4 Etapas de protocolos de servicio aéreo 
-                p.mt-3 La inclusión social para las personas que presentan dificultad para su movilidad en el transporte y el acceso a la información y comunicaciones, se debe abordar con prudencia y sensibilidad, y no con pesar por su condición, es necesario ofrecer un trato normal y un servicio de calidad.
-                p.mt-3  A continuación en la tabla 6, se describen los tipos de discapacidad y la forma correcta de actuar ante una situación similar: 
+                p.mt-3 El gestor del servicio en el aeropuerto debe realizar todas las acciones dirigidas a cumplir con la misión de la aerolínea y los objetivos establecidos para todos los canales de atención al usuario. Etapas que se relacionan a continuación:
             .col-lg-4.mb-4.mb-lg-0
               figure
                 img(src="@/assets/template/tema-2-27.svg" alt="Texto que describa la imagen")
@@ -509,6 +509,7 @@
       img(src="@/assets/template/tema-2-39.png", alt="Texto que describa la imagen")
     p.mt-4 Siempre se presentan situaciones de dificultades en el transporte de los pasajeros y atención al cliente en un aeropuerto por diversos eventos sean directos o indirectos de la empresa y se debe dar respuesta y posibles soluciones para poder reforzar el vínculo con el cliente e ir más allá de sus expectativas.
     .row.mt-4
+    p Pasos para el manejo de quejas o reclamos:
       .col-10.offset-1
         .row.mt-5
           LineaTiempoD.color-acento-contenido

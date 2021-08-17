@@ -96,12 +96,6 @@ export default {
     ],
     subMenu: [
       {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
-      {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
@@ -212,62 +206,95 @@ export default {
     {
       texto: 'IATA. (2020). Colombia listos para despegar. ',
       tipo: 'PDF',
-      link:
-        'https://www.iata.org/contentassets/0b6d1c34ebb24fa390b6030be3327751/iata-colombia-webinar-listos-para-despegar.pdf',
+      link: '/downloads/iata-colombia-webinar-listos-para-despegar.pdf',
     },
     {
       texto: 'SATENA. (2020). Manual y protocolo de servicio al cliente. ',
       tipo: 'PDF',
       link:
-        'https://www.satena.com/documentos/files/SAT-M87_MANUAL_Y_PROTOCOLO_DE_SERVICIO_AL_CLIENTE_V1.pdf',
+        '/downloads/SAT-M87_MANUAL_Y_PROTOCOLO_DE_SERVICIO_AL_CLIENTE_V1.pdf',
     },
   ],
   creditos: {
     liderEquipo: [
       {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor pedagógico',
-        centro:
-          'Regional Santander - Centro Industrial del Diseño y la Manufactura.',
+        nombre: 'María Camila García Santamaria',
+        cargo: 'Lider del equipo',
+        centro: 'Dirección General.',
       },
     ],
     contenidoInstruccional: [
       {
+        nombre: 'Rafael Neftalí Lizcano Reyes',
+        cargo: 'Asesor pedagógico',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander.',
+      },
+      {
         nombre: 'Claudia Ávila Ramírez',
         cargo: 'Experta temática',
         centro:
-          'Regional Distrito Capital - Centro Nacional de Hotelería Turismo y Alimentos',
+          'Centro Nacional de Hotelería Turismo y Alimentos - Regional Distrito Capital ',
       },
       {
         nombre: 'Lida Guanumen Riaño',
         cargo: 'Experta temática de apoyo',
         centro:
-          'Regional Distrito Capital - Centro Nacional de Hotelería Turismo y Alimentos',
+          'Centro Nacional de Hotelería Turismo y Alimentos - Regional Distrito Capital ',
+      },
+      {
+        nombre: 'Dayra Maritza Paz Calderón',
+        cargo: 'Diseñadora y evaluadora instruccional',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital ',
       },
       {
         nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Revisor Metodológico y Pedagógico',
-        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
-      },
-    ],
-    desarrolloProducto: [
-      {
-        nombre: 'Dayra Maritza Paz Calderón',
-        cargo: 'Diseñadora y Evaluadora Instruccional ',
-        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        cargo: 'Revisor metológico y pedagógico',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital ',
       },
       {
         nombre: 'Jhon Jairo Rodríguez Pérez',
         cargo: 'Diseñador y evaluador instruccional',
         centro:
-          'Centro para la Industria de la Comunicación Gráfica. Regional Distrito Capital',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+      },
+    ],
+    desarrolloProducto: [
+      {
+        nombre: 'Francisco José Lizcano Reyes',
+        cargo: 'Responsable equipo',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander.',
+      },
+      {
+        nombre: 'Leyson Fabián Castaño Perez',
+        cargo: 'Soporte organizacional',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Luis Fernando Sarmiento Betancourth',
+        cargo: 'Diseño web',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander.',
+      },
+      {
+        nombre: 'Lizeth Karina Manchego Suárez',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander.',
+      },
+      {
+        nombre: 'Yenny Patricia Ulloa Villamizar',
+        cargo: 'Validación de diseño y contenido',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander.',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },

@@ -9,7 +9,7 @@
 
     figure
       img(src="@/assets/template/tema-1-1.png", alt="Texto que describa la imagen")
-    p.mt-5 La economía del país se dinamiza a partir de las actividades de los diferentes sectores que la integran, es así como el turismo y el transporte aéreo se convierten en parte fundamental del desarrollo local y regional, ya que obligan al Estado a invertir recursos para la adecuación de la planta turística, generando empleo y por tanto mejorando la calidad de vida de los participantes en el proceso, el medio aeronáutico y la actividad turística, empresarial y social.
+    p.mt-5 El transporte aéreo es una forma de transporte relativamente reciente, sus orígenes se remontan a hace poco más de 250 años. En el siguiente video podrá conocer una breve reseña histórica:
     figure.mt-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -18,6 +18,7 @@
       #t_1_1.h4 1.1  Organismos reguladores de la aviación (IATA, OACI)
     figure.mt-4
       img(src="@/assets/template/tema-1-2.png", alt="Texto que describa la imagen")
+      p.mt-5 Para hablar de la aviación, es importante abordar el marco regulatorio, es así como se debenreconocer las siguientes organizaciones:
     .h4.mt-5 OACI: Organización de Aviación Civil Internacional (en inglés International Civil Aviation Organization. ICAO)
     .row.mt-5
       .col-12.col-lg-8
@@ -87,6 +88,8 @@
                 img(src="@/assets/template/tema-1-8.svg", alt="Texto que describa la imagen")
             .col-10.col-lg-11
               p Promover actividades relacionadas entre el medio ambiente y la aviación, con prácticas y políticas de protección del medio ambiente.
+    figure.my-5
+          img(src="@/assets/template/aviation.jpg", alt="Texto que describa la imagen")
     .h4.mt-5 IATA: Asociación Internacional de Transporte Aéreo (en inglés International Air Transport Association)
     .row.mt-5
       .col-12.col-lg-9
@@ -147,9 +150,9 @@
                   h3.mb-1 Código IATA: aeropuertos
                   p.text-small Los códigos de los principales aeropuertos del mundo se pueden consultar a través de este enlace:
                 .col-sm-auto
-                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-contenido.texto-blanco(href="https://www.flightconnections.com/es/c%C3%B3digos-de-aeropuertos" target="_blank")
                     span Enlace web
-                    i.fas.fa-link
+                    i.fas.fa-link 
     .row
       .col-10.offset-1
         .tarjeta.color-primario.p-4.mb-5.bg-morado-gradiente
@@ -206,7 +209,7 @@
             i.fas.fa-angle-right
             | Garantía del equipaje facturado por parte de la línea aérea.
       div(titulo="Convenio de Chicago")
-        p Creado en octubre de 1929, trata el transporte aéreo como un contrato que tiene en cuenta todas las partes que son partícipes de este servicio, tiene como características principales:
+        p Se estableció en 1944, su principal objeto fue convertirlas rutas aéreas en vuelos de libertad y no de provocación, por tal motivo se propuso la creación de las libertades del aire y la creación de la OACI, el convenio se basa principalmente en:
         ul.lista-ul.mt-3
           li 
             i.fas.fa-angle-right
@@ -241,7 +244,7 @@
             | #[strong Quitan libertad:] derecho de embarcar y desembarque de pasajeros, carga y correo, en cualquier ciudad de una ruta directa.
     
     .titulo-segundo.mt-5
-      #t_1_2.h4 1.2  (tipos, características, generalidades)
+      #t_1_2.h4 1.2 Aerolíneas (tipos, características, generalidades)
     figure
       img(src='@/assets/template/tema-1-17.png', alt='Texto que describa la imagen')
     .row.mt-5
@@ -294,8 +297,9 @@
         tr
           th Compañía aérea de carga
           td Se denominan de carga a las compañías aéreas de mercancía, es parte fundamental en la red internacional de logística, ya que es parte vital en los procesos de importación y exportación. 
+    br.mt-2 
     .titulo-segundo.mt-5
-      #t_1_3.h4 1.3  Alianzas aéreas de conectividad
+      #t_1_3.h4.mt-5 1.3 Alianzas aéreas de conectividad
     .row.mt-4
       .col-12.col-lg-9
         p Una alianza aérea es un acuerdo de colaboración entre aerolíneas, para garantizar la conectividad, en este momento hay activas tres grandes alianzas aéreas mundiales que son:
@@ -738,7 +742,7 @@
     p.mt-5 En la creación de un tiquete de transporte aéreo, es necesario contar con un sistema de distribución que permita el acceso al inventario de vuelos que tiene la compañía, rutas, horarios, frecuencias, equipo que opera la ruta, cotización de itinerarios etc., inicialmente se llamaron CRS Computer Reservation System o en español sistema de reservas por computadora, estaban disponibles solo para aerolíneas, posteriormente por exigencias del mercado se extendió hasta cubrir el campo de las agencias de viajes, con el avance de la tecnología llegaron los denominados GDS (Global Distribution System/ Sistemas de Distribución Global), que permitió tener acceso a información más amplia vía internet tanto para la empresa como para los usuarios.
     p.mt-5 En la siguiente línea de tiempo se presenta la evolución de los sistemas de distribución: 
     .row.mt-5
-      .col-12.px-5.py-4
+      .col-12.px-5.py-4.bg-gris-claro
         LineaTiempoC.color-acento-contenido(text-small)
           .row(titulo="1960")
             .col-1.col-lg-2

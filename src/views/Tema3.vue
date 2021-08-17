@@ -37,6 +37,7 @@
       .col-4.d-none.d-lg-block.align-self-center
         figure
           img(src="@/assets/template/tema-3-1.png", alt="Texto que describa la imagen")
+    p En turismo no sólo se de garantizar que el cliente tome la mayoría de los servicios ofrecidos, sino también que sea reincidente, y esto solo se logra al entregarle una experiencia de viaje de alto nivel que lo invite nuevamente a adquirir el servicio y recomendarlo. 
     p.mt-4 Existen diferentes clases de paquete turístico, desde el más simple, que solo incluye el traslado o el transporte a un destino, puede que este incluya un acompañamiento de un guía o no, también se encuentran unos más completos y especializados dependiendo del gusto y preferencia del cliente, algunos pueden ser paquetes ya están establecidos, ejemplo, deportivo, médico, aventura etc. o aquellos que se arman personalizados.  
     p.mt-3 Cuando en un paquete turístico se habla del itinerario, quiere decir, el detallado de las actividades, lugares, visitas y demás componentes que incluye el plan, así como del orden de actividades del día, incluyendo horarios y zonas de alimentación, de transporte y demás
     figure.mt-4
@@ -101,10 +102,10 @@
           ul.lista-ul--color.mt-4.px-4
             li 
               i.fas.fa-compass
-              | Grupos: paquetes diseñados para grupos, se establecen con un número mínimo de plazas según compañía operadora.  
+              | Regular: se realiza de acuerdo con un calendario preestablecido, sus salidas están definidas con anterioridad.  
             li 
               i.fas.fa-compass
-              | Individuales: se establecen sobre la necesidad del cliente. 
+              | Eventual: se realiza de acuerdo con la necesidad del cliente. por tanto, no está preestablecido ningún itinerario. 
       .row(titulo="Usuarios del producto")
         .col-3.d-none.d-lg-block
           figure
