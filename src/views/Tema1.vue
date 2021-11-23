@@ -18,7 +18,7 @@
       #t_1_1.h4 1.1  Organismos reguladores de la aviación (IATA, OACI)
     figure.mt-4
       img(src="@/assets/template/tema-1-2.png", alt="Texto que describa la imagen")
-      p.mt-5 Para hablar de la aviación, es importante abordar el marco regulatorio, es así como se debenreconocer las siguientes organizaciones:
+      p.mt-5 Para hablar de la aviación, es importante abordar el marco regulatorio, es así como se deben reconocer las siguientes organizaciones:
     .h4.mt-5 OACI: Organización de Aviación Civil Internacional (en inglés International Civil Aviation Organization. ICAO)
     .row.mt-5
       .col-12.col-lg-8
@@ -212,39 +212,39 @@
             i.fas.fa-angle-right
             | Garantía del equipaje facturado por parte de la línea aérea.
       div(titulo="Convenio de Chicago")
-        p Se estableció en 1944, su principal objeto fue convertirlas rutas aéreas en vuelos de libertad y no de provocación, por tal motivo se propuso la creación de las libertades del aire y la creación de la OACI, el convenio se basa principalmente en:
+        p Se estableció en 1944, su principal objeto fue convertir las rutas aéreas en vuelos de libertad y no de provocación, por tal motivo se propuso la creación de las libertades del aire y la creación de la OACI, el convenio se basa principalmente en:
         ul.lista-ul.mt-3
           li 
             i.fas.fa-angle-right
-            | #[strong Primero:] navegación, nacionalidad y condiciones de aeronaves.
+            | #[strong Primero: ] navegación, nacionalidad y condiciones de aeronaves.
           li.mt-2
             i.fas.fa-angle-right
-            | #[strong Segundo:] creación de la OACI y sus características.
+            | #[strong Segundo: ] creación de la OACI y sus características.
           li.mt-2
             i.fas.fa-angle-right
-            | #[strong Tercero:] infraestructura aérea y todo lo que esto conlleva.
+            | #[strong Tercero: ] infraestructura aérea y todo lo que esto conlleva.
           li.mt-2
             i.fas.fa-angle-right
-            | #[strong Cuarto:] recomendaciones para la firma de acuerdos.
+            | #[strong Cuarto: ] recomendaciones para la firma de acuerdos.
       div(titulo="Libertades del aire")
         p En la aviación comercial es la normativa que garantiza a las aerolíneas entrar en el espacio aéreo de un país y aterrizar o no en este. Es el instrumento utilizado para la creación de rutas aéreas internacionales, ya que para esto las líneas aéreas requieren la aprobación de los Estados involucrados para que esta pueda sobrevolar dentro o fuera de un país o incluso volar sobre una nación sin aterrizar. 
         p.mt-3 A continuación, se explica cuáles son esas libertades:
         ul.lista-ul.mt-3
           li 
             i.fas.fa-angle-right
-            | #[strong Primera libertad:] derecho de volar el territorio de un estado sin la necesidad de aterrizar en él.
+            | #[strong Primera libertad: ] derecho de volar el territorio de un estado sin la necesidad de aterrizar en él.
           li.mt-2
             i.fas.fa-angle-right
-            | #[strong Segunda libertad:] derecho de aterrizar en el territorio de un estado para fines técnicos (mantenimiento, combustible).
+            | #[strong Segunda libertad: ] derecho de aterrizar en el territorio de un estado para fines técnicos (mantenimiento, combustible).
           li.mt-2
             i.fas.fa-angle-right
-            | #[strong Tercera libertad:] derecho de desembarque de pasajeros, carga y correo, procedentes del país de origen de la línea aérea.
+            | #[strong Tercera libertad: ] derecho de desembarque de pasajeros, carga y correo, procedentes del país de origen de la línea aérea.
           li.mt-2
             i.fas.fa-angle-right
-            | #[strong Cuarta libertad:] derecho del embarque de pasajeros, carga y correo, con destino el país de la línea aérea.
+            | #[strong Cuarta libertad: ] derecho del embarque de pasajeros, carga y correo, con destino al país de la línea aérea.
           li.mt-2
             i.fas.fa-angle-right
-            | #[strong Quitan libertad:] derecho de embarcar y desembarque de pasajeros, carga y correo, en cualquier ciudad de una ruta directa.
+            | #[strong Quinta libertad: ] derecho de embarcar y desembarque de pasajeros, carga y correo, en cualquier ciudad de una ruta directa.
     
     .titulo-segundo.mt-5
       #t_1_2.h4 1.2 Aerolíneas (tipos, características, generalidades)
@@ -514,7 +514,7 @@
                 li 
                   .lista-ol--cuadro__vineta
                     span 26
-                  | Uinted    
+                  | United    
     .row.mt-5
       .h4.mt-4.mb-0.cuadro-acento-contenido One World               
     .row.mt-3
@@ -786,7 +786,7 @@
               p.text-small Además de los GDS mencionados, se cuenta con #[strong Travelport], cuyo enfoque está basado en el mercado de las agencias de viaje..    
     .row.mt-5
       .col-12.col-lg-8
-        p De acuerdo con González (2017), con el pasar de los años y a fin de ofrecer un servicio completo, se amplía los servicios del Sistema de Distribución Globalizada (GDS), logrando extender su funcionalidad en otras áreas relacionadas con el turismo, por ejemplo:
+        p De acuerdo con González (2017), con el pasar de los años y a fin de ofrecer un servicio completo, se amplían los servicios del Sistema de Distribución Globalizada (GDS), logrando extender su funcionalidad en otras áreas relacionadas con el turismo, por ejemplo:
         ul.lista-ul.mt-4
           li 
             i.fas.fa-angle-right

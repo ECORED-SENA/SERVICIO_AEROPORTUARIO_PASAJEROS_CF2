@@ -110,7 +110,7 @@
       p Tabla 6
     .tabla-b.color-secundario.mb-5
       table
-        tr.bg-acento-contenido.text-center.text-white
+        tr.bg-acento-contenido.text-center
           th 
             .h3.mb-0 Tipo de discapacidad
           td
@@ -202,7 +202,7 @@
                 figure
                   img(src="@/assets/template/tema-2-16.svg", alt="Texto que describa la imagen")
               .col-10.col-lg-11
-                p De acuerdo con la situación de la empresa se crea el plan estratégico que va representado en la misión donde se responde a la pregunta ¿qué hace y ofrece la organización? Está relacionado con el objetivo general; la visión establece las metas y proyecciones que se quieran alcanzar a un tiempo determinado. 
+                p De acuerdo con la situación de la empresa se crea el plan estratégico que va representado en la misión donde se responde a la pregunta ¿qué hace y ofrece la organización? Está relacionado con el objetivo general; la visión establece las metas y proyecciones que se quieran alcanzar en un tiempo determinado. 
             .row(numero="3" titulo="Valores corporativos")
               .col-2.col-lg-1
                 figure
@@ -250,7 +250,7 @@
       #t_2_3.h4 2.3  Protocolos de servicio aéreo
     .row.mt-4
       .col-12.col-lg-8
-        p Las aerolíneas se enfocan en la prestación del servicio al usuario generando fidelización y liderazgo en el mundo aeronáutico, por lo tanto dentro de sus protocolos y políticas de calidad involucran el fortalecimiento y el desarrollo de capacidades en temas relacionados con trabajo en equipo y sus responsabilidades dentro de cada una de las áreas de servicio que intervienen en la operación de un aeropuerto, es por ello que quién esté al frente del servicio al cliente, debe ser una persona que cumpla con un perfil enfocado hacia la prestación del servicio personalizado, con una amplia capacidad para actuar eficientemente frente a situaciones que beneficien a las partes involucradas, siguiendo los protocolos establecidos para el proceso de viaje y satisfacción del cliente.
+        p Las aerolíneas se enfocan en la prestación del servicio al usuario generando fidelización y liderazgo en el mundo aeronáutico, por lo tanto dentro de sus protocolos y políticas de calidad involucran el fortalecimiento y el desarrollo de capacidades en temas relacionados con trabajo en equipo y sus responsabilidades dentro de cada una de las áreas de servicio que intervienen en la operación de un aeropuerto, es por ello que quien esté al frente del servicio al cliente, debe ser una persona que cumpla con un perfil enfocado hacia la prestación del servicio personalizado, con una amplia capacidad para actuar eficientemente frente a situaciones que beneficien a las partes involucradas, siguiendo los protocolos establecidos para el proceso de viaje y satisfacción del cliente.
         p.mt-3 En la actualidad se afronta una situación crítica de salud sin precedentes, por la contingencia presentada con la pandemia del COVID-19 que azota al mundo entero y principalmente al sector turístico, por tal motivo la industria aérea en coordinación con la OACI y entes de salud han establecido protocolos de bioseguridad para reactivar el transporte aéreo de pasajeros, en Colombia el Gobierno nacional presenta el protocolo de bioseguridad para los aeropuertos y las empresas aéreas. 
       .col-6.col-lg-4.offset-3.offset-lg-0.align-self-center
         figure
@@ -391,7 +391,7 @@
                 | Informar canales que ofrecen servicio.
               li.mt-2
                 i.fas.fa-angle-right
-                | Revisión permanentemente la actualización de la información. 
+                | Revisar permanentemente la actualización de la información. 
               li.mt-2
                 i.fas.fa-angle-right
                 | Garantizar fácil acceso a la información.
@@ -404,7 +404,7 @@
                     | Ofrecer información sobre la prestación del servicio.
                   li.mt-2
                     i.fas.fa-angle-right
-                    | Requerir sólo aquello que sea necesario para la prestación del servicio.
+                    | Requerir solo aquello que sea necesario para la prestación del servicio.
                   li.mt-2
                     i.fas.fa-angle-right
                     | Explicar con claridad las actividades o trámites requeridos.
@@ -458,7 +458,7 @@
               img(src="@/assets/template/tema-2-36.png", alt="Texto que describa la imagen")
           .col-12.col-lg-7.px-4.pt-4.borde-gris-claro.borde-no-izq.rounded-der-bot.rounded-der-top-20
             .h4 Las sugerencias
-            p.mt-3 Para este fin las empresas crean un sistema de recolección de opiniones y puntos de vista de los clientes que por lo general son anónimas, sobre una situación determinada; la información sirve para mejorar los procesos o servicio, e identificar en que se está fallando, los medios que se utilizan pueden ser los buzones de sugerencias, correos electrónicos, en las páginas web o por WhatsApp.
+            p.mt-3 Para este fin las empresas crean un sistema de recolección de opiniones y puntos de vista de los clientes que por lo general son anónimas, sobre una situación determinada; la información sirve para mejorar los procesos o servicio, e identificar en qué se está fallando, los medios que se utilizan pueden ser los buzones de sugerencias, correos electrónicos, en las páginas web o por WhatsApp.
     .row.mt-5
       .col-10.offset-1
         .row
@@ -536,8 +536,8 @@
                 figure
                   img(src="@/assets/template/tema-2-43.svg", alt="Texto que describa la imagen")
               .col-10.col-lg-11
-                p Pídale disculpas por lo sucedido, esto permite calmar los ánimos y que se dé cuenta que acepta el error y le ayudará a solucionar el problema, si no es su culpa o de la compañía.
-            .row(numero="5" titulo="Comunique como se va a solucionar el problema")
+                p Ofrézcale disculpas por lo sucedido, esto permite calmar los ánimos y que se dé cuenta que acepta el error y le ayudará a solucionar el problema, si no es su culpa o de la compañía.
+            .row(numero="5" titulo="Comunique cómo se va a solucionar el problema")
               .col-2.col-lg-1
                 figure
                   img(src="@/assets/template/tema-2-44.svg", alt="Texto que describa la imagen")
@@ -577,7 +577,7 @@
         | Hacer promesas y no cumplir.
       li.mt-2
         i.fas.fa-angle-right
-        | No quedarse callado.
+        | Quedarse callado.
       li.mt-2
         i.fas.fa-angle-right
         | Dar un trato descortés.
@@ -592,7 +592,7 @@
         | Excederse en procedimientos para recibir la reclamación.
       li.mt-2
         i.fas.fa-angle-right
-        | No hacer interrogatorios innecesarios.
+        | Hacer interrogatorios innecesarios.
       li.mt-2
         i.fas.fa-angle-right
         | No brindar la información de dónde y cómo presentar la reclamación.

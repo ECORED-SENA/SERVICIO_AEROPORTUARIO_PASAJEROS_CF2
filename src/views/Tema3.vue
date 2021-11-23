@@ -38,7 +38,7 @@
         figure
           img(src="@/assets/template/tema-3-1.png", alt="Texto que describa la imagen")
           p.mt-2 https://pixabay.com/photos/holiday-travel-vacation-summer-2880261/
-    p.mt-5 En turismo no sólo se de garantizar que el cliente tome la mayoría de los servicios ofrecidos, sino también que sea reincidente, y esto solo se logra al entregarle una experiencia de viaje de alto nivel que lo invite nuevamente a adquirir el servicio y recomendarlo. 
+    p.mt-5 En turismo no solo se de garantizar que el cliente tome la mayoría de los servicios ofrecidos, sino también que sea reincidente, y esto solo se logra al entregarle una experiencia de viaje de alto nivel que lo invite nuevamente a adquirir el servicio y recomendarlo. 
     p.mt-4 Existen diferentes clases de paquete turístico, desde el más simple, que solo incluye el traslado o el transporte a un destino, puede que este incluya un acompañamiento de un guía o no, también se encuentran unos más completos y especializados dependiendo del gusto y preferencia del cliente, algunos pueden ser paquetes ya están establecidos, ejemplo, deportivo, médico, aventura etc. o aquellos que se arman personalizados.  
     p.mt-3 Cuando en un paquete turístico se habla del itinerario, quiere decir, el detallado de las actividades, lugares, visitas y demás componentes que incluye el plan, así como del orden de actividades del día, incluyendo horarios y zonas de alimentación, de transporte y demás
     figure.mt-4
