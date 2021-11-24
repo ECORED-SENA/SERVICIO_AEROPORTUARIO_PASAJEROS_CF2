@@ -62,7 +62,7 @@
               figure
                 img(src="@/assets/template/tema-1-4.svg", alt="Texto que describa la imagen")
             .col-10.col-lg-11
-              p Se centra en el Plan Global para la (GASP).
+              p Se centra en el Plan Global para la Seguridad Operacional de la Aviación cuya sigla es: GASP.
 
           .row(numero="2" titulo="Capacidad y eficiencia de la navegación aérea")
             .col-2.col-lg-1
@@ -939,7 +939,7 @@
               tr
                 td Países
                 td HCCC+ (código país)
-                td HCCC+ (código país)
+                td HCCC+57
               tr
                 td Ciudades
                 td W/* + (código ciudad)
