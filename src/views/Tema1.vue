@@ -92,10 +92,10 @@
     .h4.mt-5 IATA: Asociación Internacional de Transporte Aéreo (en inglés International Air Transport Association)
      figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/iwy5yCGIBrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/VmJ0tYC8bKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.mt-5
-      .col-12.col-lg-9
+      .col-12.col-lg-9VmJ0tYC8bKM
         p Fundada en el año 1919 en La Haya por 31 naciones y 57 aerolíneas, conocida en ese entonces como la asociación internacional de tráfico aéreo, con el pasar de los años en 1944 en la convención de Chicago, se reinauguró incluyendo América y el resto del mundo.
         p.mt-3 Su objetivo principal y razón por la que fue creada es la promoción de la seguridad, confianza, fiabilidad y sobre todo el cooperativismo entre líneas aéreas, para pertenecer a la IATA, las aerolíneas deben estar adscritas a las IOSA (IATA Operational Safety Audit), en el caso que las aerolíneas tengan dentro de sus rutas vuelos internacionales, para las que operan a nivel nacional pueden asociarse con la condición de tener voz, pero no voto en la organización.
       .col-6.col-lg-3.offset-6.offset-lg-0

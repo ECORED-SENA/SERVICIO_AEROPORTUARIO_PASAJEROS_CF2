@@ -176,7 +176,7 @@ export default {
     },
     {
       termino: 'Low Cost',
-      terminoHTML: '<em>Low Cost</em>',
+      terminoHtml: '<em>Low Cost</em>',
       significado: 'Expresión en lengua inglesa que traduce bajo costo.',
     },
     {
@@ -207,7 +207,8 @@ export default {
     {
       texto: 'IATA. (2020). Colombia listos para despegar. ',
       tipo: 'PDF',
-      link: '/SERVICIO_AEROPORTUARIO_PASAJEROS_CF2/downloads/iata-colombia-webinar-listos-para-despegar.pdf',
+      link:
+        '/SERVICIO_AEROPORTUARIO_PASAJEROS_CF2/downloads/iata-colombia-webinar-listos-para-despegar.pdf',
     },
     {
       texto: 'SATENA. (2020). Manual y protocolo de servicio al cliente. ',
