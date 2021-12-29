@@ -216,35 +216,44 @@
         ul.lista-ul.mt-3
           li 
             i.fas.fa-angle-right
-            | #[strong Primero: ] navegación, nacionalidad y condiciones de aeronaves.
+            | #[strong Primero: ] 
+            .mx-1 navegación, nacionalidad y condiciones de aeronaves.
           li.mt-2
             i.fas.fa-angle-right
-            | #[strong Segundo: ] creación de la OACI y sus características.
+            | #[strong Segundo: ] 
+            .mx-1 creación de la OACI y sus características.
           li.mt-2
             i.fas.fa-angle-right
-            | #[strong Tercero: ] infraestructura aérea y todo lo que esto conlleva.
+            | #[strong Tercero: ] 
+            .mx-1 infraestructura aérea y todo lo que esto conlleva.
           li.mt-2
             i.fas.fa-angle-right
-            | #[strong Cuarto: ] recomendaciones para la firma de acuerdos.
+            | #[strong Cuarto: ] 
+            .mx-1 recomendaciones para la firma de acuerdos.
       div(titulo="Libertades del aire")
         p En la aviación comercial es la normativa que garantiza a las aerolíneas entrar en el espacio aéreo de un país y aterrizar o no en este. Es el instrumento utilizado para la creación de rutas aéreas internacionales, ya que para esto las líneas aéreas requieren la aprobación de los Estados involucrados para que esta pueda sobrevolar dentro o fuera de un país o incluso volar sobre una nación sin aterrizar. 
         p.mt-3 A continuación, se explica cuáles son esas libertades:
         ul.lista-ul.mt-3
           li 
             i.fas.fa-angle-right
-            | #[strong Primera libertad: ] derecho de volar el territorio de un estado sin la necesidad de aterrizar en él.
+            | #[strong Primera libertad: ] 
+            .mx-1 derecho de volar el territorio de un estado sin la necesidad de aterrizar en él.
           li.mt-2
             i.fas.fa-angle-right
-            | #[strong Segunda libertad: ] derecho de aterrizar en el territorio de un estado para fines técnicos (mantenimiento, combustible).
+            | #[strong Segunda libertad: ] 
+            .mx-1 derecho de aterrizar en el territorio de un estado para fines técnicos (mantenimiento, combustible).
           li.mt-2
             i.fas.fa-angle-right
-            | #[strong Tercera libertad: ] derecho de desembarque de pasajeros, carga y correo, procedentes del país de origen de la línea aérea.
+            | #[strong Tercera libertad: ] 
+            .mx-1 derecho de desembarque de pasajeros, carga y correo, procedentes del país de origen de la línea aérea.
           li.mt-2
             i.fas.fa-angle-right
-            | #[strong Cuarta libertad: ] derecho del embarque de pasajeros, carga y correo, con destino al país de la línea aérea.
+            | #[strong Cuarta libertad: ] 
+            .mx-1 derecho del embarque de pasajeros, carga y correo, con destino al país de la línea aérea.
           li.mt-2
             i.fas.fa-angle-right
-            | #[strong Quinta libertad: ] derecho de embarcar y desembarque de pasajeros, carga y correo, en cualquier ciudad de una ruta directa.
+            | #[strong Quinta libertad: ] 
+            .mx-1 derecho de embarcar y desembarque de pasajeros, carga y correo, en cualquier ciudad de una ruta directa.
     
     .titulo-segundo.mt-5
       #t_1_2.h4 1.2 Aerolíneas (tipos, características, generalidades)
