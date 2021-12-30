@@ -207,8 +207,7 @@ export default {
     {
       texto: 'IATA. (2020). Colombia listos para despegar. ',
       tipo: 'PDF',
-      descarga:
-        '/downloads/iata-colombia-webinar-listos-para-despegar.pdf',
+      descarga: '/downloads/iata-colombia-webinar-listos-para-despegar.pdf',
     },
     {
       texto: 'SATENA. (2020). Manual y protocolo de servicio al cliente. ',
