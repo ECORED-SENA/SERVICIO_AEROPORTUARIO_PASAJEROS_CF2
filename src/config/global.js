@@ -213,7 +213,7 @@ export default {
     {
       texto: 'SATENA. (2020). Manual y protocolo de servicio al cliente. ',
       tipo: 'PDF',
-      link:
+      descarga:
         '/downloads/SAT-M87_MANUAL_Y_PROTOCOLO_DE_SERVICIO_AL_CLIENTE_V1.pdf',
     },
   ],
